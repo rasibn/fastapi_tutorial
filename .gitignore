@@ -1,0 +1,12 @@
+
+# Ignore the virtual environment directory
+__pypackages__/
+
+# Ignore the Poetry-generated files
+# poetry.lock
+# pyproject.toml
+
+# Ignore the Poetry cache directory
+.poetry/
+
+#
