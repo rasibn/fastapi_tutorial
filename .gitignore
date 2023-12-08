@@ -7,6 +7,6 @@ __pypackages__/
 # pyproject.toml
 
 # Ignore the Poetry cache directory
-__pycache__/**
+fastapi_tutorial/__pycache__
 
 #
